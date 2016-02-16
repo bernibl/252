@@ -29,4 +29,7 @@ switch (operators)
 	console.log(answer);
 	break;
 
+	default:
+	console.log("Error: Input number operation number.");
+	break;
 }
